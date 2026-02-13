@@ -481,6 +481,7 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 ```
  # บันทึกรูปหน้า Enroll
 ```
+<img width="867" height="672" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 22 06" src="https://github.com/user-attachments/assets/063fd941-b70d-4c78-985a-46c73f68ec8f" />
 
 **Enroll นักเรียนผ่าน Cohort sync:**
 - หน้า Participants > Enrolment methods  (จากเดิมจะเลือกเมนูเป็น Enrolled users ไว้)
@@ -492,12 +493,15 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 ```
  # บันทึกรูปหน้า Enroll
 ```
+<img width="1710" height="1112" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 10 56 53" src="https://github.com/user-attachments/assets/4ff211f3-1343-42b8-baf4-fea4f1afaefb" />
 
 ```
 **บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
 ```
  # บันทึกรูปหน้า Course ที่ Enrol User แล้ว
 ```
+<img width="1275" height="889" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 10 56 24" src="https://github.com/user-attachments/assets/5109ad2e-1e87-4be5-8d43-ff7cd7315c88" />
+
 
 #### 6.2 เพิ่ม Activities
 **1) ทดสอบ Login เข้าระบบด้วย User Teacher ที่ได้สร้างขึ้น
@@ -530,13 +534,22 @@ Grade to pass: 60%
 ```
  # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
 ```
+<img width="1710" height="1112" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 58 42" src="https://github.com/user-attachments/assets/c48ad30f-09d2-4a74-84a2-4dd9871032ea" />
+
 
 
 ## คำถามท้ายการทดลอง
 
 **1.** อธิบายความแตกต่างระหว่าง Category และ Cohort 
-
+ตอบ
+Category ใช้จัดหมวดหมู่รายวิชา (Course)
+Cohort ใช้จัดกลุ่มผู้ใช้งาน (นักเรียน/บุคลากร)
 **2.** เหตุใดควรใช้ Cohort sync 
-
+ตอบ
+เพื่อเพิ่มผู้เรียนเข้าเรียนแบบอัตโนมัติ
+ลดภาระงานและลดความผิดพลาดในการเพิ่มสมาชิกทีละคน
 **3.** Best practices สำหรับ Category structure คือแบบใด
-
+ตอบ
+จัดตามโครงสร้างองค์กร/ระดับชั้น
+ไม่ซับซ้อนเกินไป (ไม่ลึกหลายชั้น)
+ตั้งชื่อให้ชัดเจน เช่น ระบุปีการศึกษา
