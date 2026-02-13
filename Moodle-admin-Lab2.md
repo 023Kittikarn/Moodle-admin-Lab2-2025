@@ -532,9 +532,10 @@ Grade to pass: 60%
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
 ```
+<img width="1710" height="1112" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 58 42" src="https://github.com/user-attachments/assets/69ce5080-dd7a-4498-84ad-264790b80290" />
  # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
 ```
-<img width="1710" height="1112" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 58 42" src="https://github.com/user-attachments/assets/69ce5080-dd7a-4498-84ad-264790b80290" />
+
 
 
 ## คำถามท้ายการทดลอง
